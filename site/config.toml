@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://explaincode.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
